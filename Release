@@ -1,0 +1,8 @@
+Origin: Doctor's Cydia Repository
+Label: Doctor's Cydia Repository
+Suite: stable
+Version: 1.0
+Codename: CyRep0
+Architectures: iphoneos-arm
+Components: main
+Description: Doctor's Cydia Repository
